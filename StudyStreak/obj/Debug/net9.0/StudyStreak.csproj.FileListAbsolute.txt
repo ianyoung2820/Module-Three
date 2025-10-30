@@ -1,0 +1,14 @@
+D:\ianyo\Documents\CSE 310\Module Three\StudyStreak\bin\Debug\net9.0\StudyStreak.exe
+D:\ianyo\Documents\CSE 310\Module Three\StudyStreak\bin\Debug\net9.0\StudyStreak.deps.json
+D:\ianyo\Documents\CSE 310\Module Three\StudyStreak\bin\Debug\net9.0\StudyStreak.runtimeconfig.json
+D:\ianyo\Documents\CSE 310\Module Three\StudyStreak\bin\Debug\net9.0\StudyStreak.dll
+D:\ianyo\Documents\CSE 310\Module Three\StudyStreak\bin\Debug\net9.0\StudyStreak.pdb
+D:\ianyo\Documents\CSE 310\Module Three\StudyStreak\obj\Debug\net9.0\StudyStreak.GeneratedMSBuildEditorConfig.editorconfig
+D:\ianyo\Documents\CSE 310\Module Three\StudyStreak\obj\Debug\net9.0\StudyStreak.AssemblyInfoInputs.cache
+D:\ianyo\Documents\CSE 310\Module Three\StudyStreak\obj\Debug\net9.0\StudyStreak.AssemblyInfo.cs
+D:\ianyo\Documents\CSE 310\Module Three\StudyStreak\obj\Debug\net9.0\StudyStreak.csproj.CoreCompileInputs.cache
+D:\ianyo\Documents\CSE 310\Module Three\StudyStreak\obj\Debug\net9.0\StudyStreak.dll
+D:\ianyo\Documents\CSE 310\Module Three\StudyStreak\obj\Debug\net9.0\refint\StudyStreak.dll
+D:\ianyo\Documents\CSE 310\Module Three\StudyStreak\obj\Debug\net9.0\StudyStreak.pdb
+D:\ianyo\Documents\CSE 310\Module Three\StudyStreak\obj\Debug\net9.0\StudyStreak.genruntimeconfig.cache
+D:\ianyo\Documents\CSE 310\Module Three\StudyStreak\obj\Debug\net9.0\ref\StudyStreak.dll

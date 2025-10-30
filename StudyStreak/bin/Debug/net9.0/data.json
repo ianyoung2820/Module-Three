@@ -1,0 +1,14 @@
+{
+  "Sessions": [],
+  "Goals": [
+    {
+      "Title": "Memorize five procedures",
+      "Date": "2025-10-30",
+      "Done": true
+    }
+  ],
+  "ActiveSession": {
+    "StartUtc": "2025-10-30T23:13:54.0646658Z",
+    "EndUtc": null
+  }
+}
