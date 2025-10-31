@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudyStreak")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4196f73719cb61db09727d2683db14e6a530e0a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a46686742b7f6a6fb8d22f692e7084c7129376b")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudyStreak")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudyStreak")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
