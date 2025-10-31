@@ -12,3 +12,4 @@ D:\ianyo\Documents\CSE 310\Module Three\StudyStreak\obj\Debug\net9.0\refint\Stud
 D:\ianyo\Documents\CSE 310\Module Three\StudyStreak\obj\Debug\net9.0\StudyStreak.pdb
 D:\ianyo\Documents\CSE 310\Module Three\StudyStreak\obj\Debug\net9.0\StudyStreak.genruntimeconfig.cache
 D:\ianyo\Documents\CSE 310\Module Three\StudyStreak\obj\Debug\net9.0\ref\StudyStreak.dll
+D:\ianyo\Documents\CSE 310\Module Three\StudyStreak\obj\Debug\net9.0\StudyStreak.sourcelink.json

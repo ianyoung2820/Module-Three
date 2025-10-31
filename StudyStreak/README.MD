@@ -4,7 +4,7 @@ I created a small C# console app called **StudyStreak** to practice real-world C
 
 My purpose in writing this software was to get more comfortable with object-oriented programming, file input and output, and the general C# workflow. I wanted hands-on experience with loops, conditionals, methods, classes, and basic data storage using JSON.
 
-[Software Demo Video](https://youtu.be/)
+[Software Demo Video](https://youtu.be/bB29484GgVc)
 
 # Development Environment
 
